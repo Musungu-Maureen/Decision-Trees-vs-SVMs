@@ -16,7 +16,9 @@ The project was done as an assessment for a Data Science Course.
 
 ## Technologies Used
 Python
+
 Jupyter Notebook
+
 Git
 
 ## Contact Details
