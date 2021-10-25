@@ -1,4 +1,4 @@
-# ## Introduction
+## Introduction
 This is a study conducted by a Data Scientist for Nairobi Hospital which previously conducted a clinical camp to test for hypothyroidism. Nairobi Hospital is interested in having a model that predicts whether a patient has hypothyroidism or not by studying their symptoms.
 The main aim of this study is to build a model that determines whether or not a patient's symptoms indicate that the patient has hypothyroid.
 
